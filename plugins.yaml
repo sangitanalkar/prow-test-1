@@ -1,0 +1,8 @@
+plugins:
+  nalkarsangita/prow-test: 
+  - size
+  - skip
+  - lgtm
+  - assign
+  - approve
+  - trigger
